@@ -17,6 +17,8 @@
 		<module>RegistrationService</module>
 		<module>GatewayService</module>
 		<module>PaymentService</module>
+		<module>Commande</module>
+		<module>Notification</module>
 	</modules>
 
 	<groupId>com.example</groupId>
